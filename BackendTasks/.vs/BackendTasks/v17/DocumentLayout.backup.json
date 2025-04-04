@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdel\\source\\repos\\BackendTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\controllers\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD85557A-2C01-4A66-92AE-AECC8F866B96}|..\\BackendTask6\\BackendTask6.csproj|c:\\users\\abdel\\source\\repos\\backendtask6\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\appsettings.json",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\appsettings.json",
+              "RelativeToolTip": "..\\BackendTask6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T08:25:47.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Model\\User.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Model\\User.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:25:40.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Model\\Role.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Model\\Role.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Model\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:25:33.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Model\\Post.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Model\\Post.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Model\\Post.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Model\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:25:27.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:24:33.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:23:38.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:23:34.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Controllers\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Controllers\\AuthService.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Controllers\\AuthService.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Controllers\\AuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:23:24.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Controllers\\PostController.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:18:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Model\\Login.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Model\\Login.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:13:07.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BackendTask6\\Program.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\BackendTask6\\Program.cs",
+              "RelativeToolTip": "..\\BackendTask6\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:51:04.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

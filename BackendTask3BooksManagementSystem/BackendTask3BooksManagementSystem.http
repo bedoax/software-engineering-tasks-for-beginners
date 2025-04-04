@@ -1,0 +1,6 @@
+@BackendTask3BooksManagementSystem_HostAddress = http://localhost:5225
+
+GET {{BackendTask3BooksManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
